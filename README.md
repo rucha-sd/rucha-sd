@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rucha-sd
-- 👀 I’m interested in Machine Learning and Web Development
+- 👀 I’m interested in Artificial Intelligence, Machine Learning and Web Development
 - 🌱 I’m currently studying at Pune Institute of Computer Technology
 
 <!---
