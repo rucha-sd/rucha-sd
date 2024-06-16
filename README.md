@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rucha</h1>
 <h3 align="center">I recently completed my Master's in Computer Science from Purdue University.</h3>
 
-- 👯 Experienced in full-stack web development with technologies like **React, Node.js, and MongoDB.**
+- 👯 Experienced in full-stack web development with **React, Node.js, and MongoDB.**
 
 - 👨‍💻 Know more about me at [https://rucha-sd.github.io/](https://rucha-sd.github.io/)
 
